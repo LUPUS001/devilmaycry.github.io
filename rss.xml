@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Devil My Cry Wiki</title>
+        <link>https://lupus001.github.io/devilmaycry.github.io/</link>
+        <description>Bienvenid@s a esta especie de wiki dedicada al extenso e increible mundo de Devil May Cry</description>
+
+        <item>
+            <title>Bienvenidos a la Devil May Cry Wiki</title>
+            <link>https://lupus001.github.io/devilmaycry.github.io/index.html</link>
+            <description>Bienvenid@ a la wiki en donde podrás adentrarte en el lore de este mundo</description>
+        </item>
+
+        <item>
+            <title>Galería de armas</title>
+            <link>https://lupus001.github.io/devilmaycry.github.io/galeria_armas.html</link>
+            <description>Explora la gran variedad de armas demoníacas del mundo de DMC, junto a una pequeña introducción de cada de estas</description>
+        </item>
+
+        <item>
+            <title>Formulario de contacto</title>
+            <link>https://lupus001.github.io/devilmaycry.github.io/contacto.html</link>
+            <description>Sí quieres enviarnos sugerencias para mejorar la wiki o simplemente dejar un comentario, entra aquí</description>
+        </item>
+    </channel>
+</rss>
