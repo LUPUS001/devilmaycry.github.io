@@ -112,6 +112,8 @@ nav ul li a {
     .container {
         grid-template-columns: 1fr;
         padding: 10px;
+        padding-left:30px;
+        padding-right:30px;
     }
     nav ul li {
         display: block;
