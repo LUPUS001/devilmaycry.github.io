@@ -110,6 +110,7 @@ nav ul li a {
 /* Diseño responsive para tablets */
 @media (max-width: 1366px) {
     body {
+        font-size: 20px;
         padding: 10px; /* Espacio alrededor del contenido */
     }
 
